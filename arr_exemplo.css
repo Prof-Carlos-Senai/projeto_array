@@ -10,14 +10,14 @@ body{
 }
 
 input{
-    width: 200px;
+    width: 240px;
     height: 40px;
     background-color: black;
     color: whitesmoke;
 }
 
 button{
-    width: 120px;
+    width: 180px;
     height: 40px;
     color: whitesmoke;
     font-size: 20px;

@@ -6,3 +6,9 @@ function inserir(){
     nome_cidade.push(cidade)
     res.innerHTML = "As cidades inseridas são: " + nome_cidade
 }
+
+function excluir(){
+    let cidade = document.getElementById('cidade').value
+    nome_cidade.pop()
+    res.innerHTML = "As cidades inseridas são: " + nome_cidade
+}
